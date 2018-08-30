@@ -1,2 +1,1 @@
-# Exercice_git
-Exercice OpenClassrooms sur Git
+#Exercice OpenClassrooms sur Git qui se passe bien
